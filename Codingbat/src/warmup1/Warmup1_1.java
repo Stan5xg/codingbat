@@ -148,7 +148,5 @@ public class Warmup1_1 {
 
 		return front + front + front;
 	}
-	
-	
 
 }
