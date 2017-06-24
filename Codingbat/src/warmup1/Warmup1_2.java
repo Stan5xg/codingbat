@@ -1,5 +1,7 @@
 package warmup1;
 
+import warmup2.Warmup2;
+
 public class Warmup1_2 {
 	/*
 	 * Given a string, take the last char and return a new string with the last
@@ -256,5 +258,7 @@ public class Warmup1_2 {
 
 		return result;
 	}
+
+
 
 }
